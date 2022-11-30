@@ -15,7 +15,7 @@ Install
 Run this command from your terminal:
 
 ```sh
-curl -fsSL https://raw.githubusercontent.com/cestoliv/42brew_sgoinfre/master/install.sh | zsh
+curl -fsSL https://raw.githubusercontent.com/cestoliv/42Lyon_homebrew_sgoinfre/master/install.sh | zsh
 ```
 
 Homebrew is now ready on your session.
